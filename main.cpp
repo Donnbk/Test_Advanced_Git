@@ -10,6 +10,5 @@ int main(){
 	sum10 = x + y;
 	cout << "sum = " << sum10 << "\n";
 	
-	system("pause");
 	return 0;
 }
