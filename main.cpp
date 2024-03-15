@@ -2,13 +2,13 @@
 using namespace std;
 
 int main(){
-	int x,y,sum2num;
+	int x,y,z,sum3num;
 
-	cout << "Input values of x and y:" << "\n";
-	cin >> x >> y;
+	cout << "Input values of x, y and z:" << "\n";
+	cin >> x >> y >> z;
 
-	sum2num = x + y;
-	cout << "sum = " << sum2num << "\n";
+	sum3num = x + y + z;
+	cout << "sum = " << sum3num << "\n";
 	
 	return 0;
 }
