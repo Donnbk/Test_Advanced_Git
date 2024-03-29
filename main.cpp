@@ -8,7 +8,7 @@ int main(){
 	cin >> x >> y >> z;
 
 	sum3num = x + y + z;
-	cout << "sum = " << sum3num << "\n";
+	cout << "sum of 3 numbers is " << sum3num << "\n";
 	
 	return 0;
 }
